@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled output
+out/
+bin/*.class
+**/*.class
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+
+# Generated output folders (runtime outputs, not source)
+OutputMatrizes/
+OutputImagens/
+ImagensReconstruidas/
+ImagensCriadas/
+Identificacao/
+ModoI_*/
+ModoNI_*/
+ModoI_ModoNI_*/
+eigenfaces/
+
+# OS files
+.DS_Store
+Thumbs.db
